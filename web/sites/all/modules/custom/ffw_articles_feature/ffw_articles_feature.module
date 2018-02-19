@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the FFW Articles feature feature.
+ */
+
+include_once 'ffw_articles_feature.features.inc';

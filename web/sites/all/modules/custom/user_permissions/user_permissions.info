@@ -1,0 +1,9 @@
+name = User permissions
+description = This is a feature about User permissions
+core = 7.x
+package = FFW Articles
+version = 7.x-1.0-alpha1
+dependencies[] = features
+features[features_api][] = api:2
+features[user_role][] = editor
+project path = sites/all/modules/custom
